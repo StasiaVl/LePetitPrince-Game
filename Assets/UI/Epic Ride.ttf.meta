@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f810429dd2780bb48ad8319e3d658532
+timeCreated: 1502561356
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Epic Ride
+  fontNames:
+  - Epic Ride
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
